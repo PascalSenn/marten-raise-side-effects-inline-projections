@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Marten" Version="7.40.1" />
+    <PackageReference Include="WolverineFx" Version="3.12.2" />
+    <PackageReference Include="WolverineFx.Marten" Version="3.12.2" />
+    <PackageReference Include="WolverineFx.RabbitMQ" Version="3.12.2" />
+  </ItemGroup>
+
+</Project>
