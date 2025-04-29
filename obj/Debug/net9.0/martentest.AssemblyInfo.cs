@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("martentest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb19d50aff787c158d4103e7f3f70e0c71496481")]
 [assembly: System.Reflection.AssemblyProductAttribute("martentest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("martentest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
